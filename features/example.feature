@@ -4,4 +4,4 @@ Feature: Test cucumber setup
     And I can enter "Who is Nicola Tesla?" into search field
     Then I press enter of search field
     And I see text "wikipedia.org"
-    And I see text "Nikola Tesla was a Serbian-American inventor"
+    And I see text "Serbian-American engineer and physicist"
